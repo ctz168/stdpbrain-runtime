@@ -1,0 +1,25 @@
+2026-07-12 22:10:17 [INFO] ================================================================================
+2026-07-12 22:10:17 [INFO] 🧠 brain_daemon_aicq starting (with AICQ integration)
+2026-07-12 22:10:17 [INFO] ================================================================================
+2026-07-12 22:10:17 [INFO]   session_id: 20260712_221017
+2026-07-12 22:10:17 [INFO]   master_id: 1000008
+2026-07-12 22:10:17 [INFO]   max_cycles: 10
+2026-07-12 22:10:17 [INFO]   AICQ server: https://aicq.me
+22:10:18 [aicq.loop] INFO: 从文件加载身份: ai_d023cead
+2026-07-12 22:10:18 [INFO] [aicq] agent account_id: ai_d023cead
+22:10:18 [brain_daemon_aicq] INFO: [aicq] agent account_id: ai_d023cead
+22:10:18 [aicq.loop] INFO: 智能体身份: account_id=ai_d023cead pub=8973e1e1b2873d22...
+22:10:18 [aicq.loop] INFO: 智能体已登录: ai_d023cead
+22:10:18 [aicq.loop] INFO: 正在连接 WebSocket: wss://aicq.me/ws
+22:10:18 [aicq.loop] INFO: 已发送 online 消息，智能体上线: ai_d023cead
+22:10:18 [aicq.loop] INFO: WS 认证成功: ai_d023cead
+2026-07-12 22:10:18 [INFO] 📥 [aicq] message from 1000008: '你好'
+22:10:18 [brain_daemon_aicq] INFO: 📥 [aicq] message from 1000008: '你好'
+2026-07-12 22:10:18 [INFO] [aicq] WebSocket connected, brain agent online
+22:10:18 [brain_daemon_aicq] INFO: [aicq] WebSocket connected, brain agent online
+2026-07-12 22:10:18 [INFO]   ✅ AICQ connected, agent_id=ai_d023cead
+22:10:18 [brain_daemon_aicq] INFO:   ✅ AICQ connected, agent_id=ai_d023cead
+2026-07-12 22:10:18 [INFO] 📤 [aicq] sent to 1000008: '🧠 brain 容器已上线 (session=20260712_221017)\n我将开始自主学习并向你汇报进展.\n触发发消息的条件: DA>0.65, |val'
+22:10:18 [brain_daemon_aicq] INFO: 📤 [aicq] sent to 1000008: '🧠 brain 容器已上线 (session=20260712_221017)\n我将开始自主学习并向你汇报进展.\n触发发消息的条件: DA>0.65, |val'
+2026-07-12 22:10:18 [INFO]   loading GPT-2...
+22:10:18 [brain_daemon_aicq] INFO:   loading GPT-2...

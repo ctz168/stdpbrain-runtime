@@ -1,0 +1,30 @@
+[2026-07-12 22:01:18] [supervisor-aicq] 🧠 brain_supervisor_aicq starting (PID=5013)
+[2026-07-12 22:01:18] [supervisor-aicq]    daemon: /home/z/my-project/scripts/brain_daemon_aicq.py
+[2026-07-12 22:01:18] [supervisor-aicq]    master_id: 1000008
+[2026-07-12 22:01:18] [supervisor-aicq]    max_restarts: 50
+[2026-07-12 22:01:18] [supervisor-aicq] ========================================
+[2026-07-12 22:01:18] [supervisor-aicq] ▶ starting daemon (attempt 1/50)
+[2026-07-12 22:02:48] [supervisor-aicq] 🧠 brain_supervisor_aicq starting (PID=5140)
+[2026-07-12 22:02:48] [supervisor-aicq]    daemon: /home/z/my-project/scripts/brain_daemon_aicq.py
+[2026-07-12 22:02:48] [supervisor-aicq]    master_id: 1000008
+[2026-07-12 22:02:48] [supervisor-aicq]    max_restarts: 50
+[2026-07-12 22:02:48] [supervisor-aicq] ========================================
+[2026-07-12 22:02:48] [supervisor-aicq] ▶ starting daemon (attempt 1/50)
+[2026-07-12 22:05:48] [supervisor-aicq] 🧠 brain_supervisor_aicq starting (PID=5423)
+[2026-07-12 22:05:48] [supervisor-aicq]    daemon: /home/z/my-project/scripts/brain_daemon_aicq.py
+[2026-07-12 22:05:48] [supervisor-aicq]    master_id: 1000008
+[2026-07-12 22:05:48] [supervisor-aicq]    max_restarts: 50
+[2026-07-12 22:05:48] [supervisor-aicq] ========================================
+[2026-07-12 22:05:48] [supervisor-aicq] ▶ starting daemon (attempt 1/50)
+[2026-07-12 22:06:37] [supervisor-aicq] 🧠 brain_supervisor_aicq starting (PID=5510)
+[2026-07-12 22:06:37] [supervisor-aicq]    daemon: /home/z/my-project/scripts/brain_daemon_aicq.py
+[2026-07-12 22:06:37] [supervisor-aicq]    master_id: 1000008
+[2026-07-12 22:06:37] [supervisor-aicq]    max_restarts: 50
+[2026-07-12 22:06:37] [supervisor-aicq] ========================================
+[2026-07-12 22:06:37] [supervisor-aicq] ▶ starting daemon (attempt 1/50)
+[2026-07-12 22:10:15] [supervisor-aicq] 🧠 brain_supervisor_aicq starting (PID=5732)
+[2026-07-12 22:10:15] [supervisor-aicq]    daemon: /home/z/my-project/scripts/brain_daemon_aicq.py
+[2026-07-12 22:10:16] [supervisor-aicq]    master_id: 1000008
+[2026-07-12 22:10:16] [supervisor-aicq]    max_restarts: 50
+[2026-07-12 22:10:16] [supervisor-aicq] ========================================
+[2026-07-12 22:10:16] [supervisor-aicq] ▶ starting daemon (attempt 1/50)

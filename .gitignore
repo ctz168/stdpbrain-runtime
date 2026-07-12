@@ -1,0 +1,23 @@
+# Sensitive
+.hf_token
+*.token
+*_secret*
+
+# Large / generated
+brain_runtime/checkpoints/*.pt
+brain_runtime/checkpoints/*.json
+brain_runtime/logs/*.log
+brain_runtime/logs/*.log.*
+brain_runtime/cache/
+brain_runtime/.aicq-sdk/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
